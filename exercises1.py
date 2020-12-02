@@ -120,7 +120,7 @@ tomará en cuenta el primer carácter de la cadena."""
 
 def ex10_generate_histogram(values, character):
     """Función que recibe una lista de valores y un carácter y devuelve un
-histograma conformado por cadenas de caracteres (una para cada valor)
+histograma conformado por cadenas de caracteres (una cadena para cada valor)
 
 Nota: Si se introduce una cadena de más de un carácter la función solo
 tomará en cuenta el primer carácter de la cadena."""
